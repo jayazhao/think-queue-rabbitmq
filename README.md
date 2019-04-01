@@ -15,7 +15,7 @@ TP5 队列没有 RabbitMQ 驱动十分不便，借鉴了 Laravel 的 RabbitMQ �
 ```
 
 return [
-    'connector' => 'jayazhao\queue\connector\RabbitMQ::class',
+    'connector' => 'jayazhao\\queue\\connector\\RabbitMQ',
 
     'dsn' => env('RABBITMQ_DSN', null),
 
