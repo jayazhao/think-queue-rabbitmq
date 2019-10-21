@@ -1,11 +1,11 @@
 {
   "name": "jayazhao/think-queue-rabbitmq",
-  "description": "为 TP5.1 队列增加 RabbitMQ 驱动",
+  "description": "为 ThinkPHP5.1 队列增加 RabbitMQ 驱动",
   "type": "think-extend",
   "authors": [
     {
       "name": "jayazhao",
-      "email": "2296977889@qq.com"
+      "email": "jayazhao@foxmail.com"
     }
   ],
   "license": "Apache-2.0",
